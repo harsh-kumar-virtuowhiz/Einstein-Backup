@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>N7_Product__c</label>
+    <protected>false</protected>
+    <values>
+        <field>N7Einstein__Attach_Field__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>N7Einstein__Is_Product__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>N7Einstein__Is_Required__c</field>
+        <value xsi:type="xsd:boolean">false</value>
+    </values>
+    <values>
+        <field>N7Einstein__Object__c</field>
+        <value xsi:type="xsd:string">Case</value>
+    </values>
+    <values>
+        <field>N7Einstein__Request_Parameter__c</field>
+        <value xsi:type="xsd:string">product</value>
+    </values>
+    <values>
+        <field>N7Einstein__Search_Expression__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>N7Einstein__Search_Field__c</field>
+        <value xsi:type="xsd:string">N7_Product__c</value>
+    </values>
+</CustomMetadata>

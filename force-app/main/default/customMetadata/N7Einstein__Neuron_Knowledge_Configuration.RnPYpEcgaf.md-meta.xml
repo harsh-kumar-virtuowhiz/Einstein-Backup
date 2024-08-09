@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>RnPYpEcgaf</label>
+    <protected>false</protected>
+    <values>
+        <field>N7Einstein__Field_Name__c</field>
+        <value xsi:type="xsd:string">Title</value>
+    </values>
+    <values>
+        <field>N7Einstein__Link_Field__c</field>
+        <value xsi:type="xsd:string">Article_Number__c</value>
+    </values>
+    <values>
+        <field>N7Einstein__Object__c</field>
+        <value xsi:type="xsd:string">Knowledge__kav</value>
+    </values>
+    <values>
+        <field>N7Einstein__Search_Text__c</field>
+        <value xsi:nil="true"/>
+    </values>
+    <values>
+        <field>N7Einstein__Where_Field__c</field>
+        <value xsi:type="xsd:string">UrlName</value>
+    </values>
+</CustomMetadata>
